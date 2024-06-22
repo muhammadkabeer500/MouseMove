@@ -1,0 +1,18 @@
+img{
+    position: fixed;
+    width: 80px;
+    border-radius: 51px;
+
+    
+    
+}
+body {
+    height: 100vh;
+    background-color: chartreuse;
+  }
+  h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 113px;
+    font-family: 'Courier New', Courier, monospace;
+  }
